@@ -1,0 +1,19 @@
+{
+  "name": "job-switcher",
+  "version": "1.0.0",
+  "description": "1. Concept Evaluation\r Your idea is solid and solves a real problem: job seekers often struggle to understand how well their skills match a job posting. A tool that analyzes this and provides a score would be valuable. Adding a freemium model makes it accessible while allowing monetization. Here’s my feedback:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
